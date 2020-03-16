@@ -7,16 +7,20 @@ Do you write a test code?
 You know it is very important to make a test code, but it is one of tough work these days.
 **SpecTest** will help you a little smaller work of that.
 
-## Important Notice
-
-This product of **SpecTest** is currently included in the project [Kinx](https://github.com/Kray-G/kinx).
-Therefore this page is the link to [Kinx](https://github.com/Kray-G/kinx).
-Now I am trying this to be separated from [Kinx](https://github.com/Kray-G/kinx)
-because this testing framework is independent from [Kinx](https://github.com/Kray-G/kinx).
-But the priority of work is low because this can work with [Kinx](https://github.com/Kray-G/kinx) so far.
-
-If you are instrestead in this product and you want to make me speed up of development, please let me know.
-Anyway, **SpecTest** can work with [Kinx](https://github.com/Kray-G/kinx) now.
+> ## Important Notice
+> 
+> This product of **SpecTest** is currently included in the project [Kinx](https://github.com/Kray-G/kinx).
+> Therefore this page is the link to [Kinx](https://github.com/Kray-G/kinx).
+> Now I am trying this to be separated from [Kinx](https://github.com/Kray-G/kinx)
+> because this testing framework is independent from [Kinx](https://github.com/Kray-G/kinx).
+> But the priority of work is low because this can work with [Kinx](https://github.com/Kray-G/kinx) so far.
+> 
+> If you are instrestead in this product and you want to make me speed up of development, please let me know.
+> Anyway, **SpecTest** can work with [Kinx](https://github.com/Kray-G/kinx) now.
+> See below for details.
+> 
+> *   [SpecTest](https://github.com/Kray-G/kinx/tree/master/doc/spec/spectest)
+>     *   [SpecTest for Kinx ... As Example of SpecTest](https://github.com/Kray-G/kinx/tree/master/doc/spec)
 
 ### What is SpecTest?
 
