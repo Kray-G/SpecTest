@@ -1,3 +1,4 @@
+<p align="right"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat"/></p>
 <p align="center"><img src="https://raw.githubusercontent.com/Kray-G/kinx/master/doc/spectest.png" height="84px" /></p>
 <p align="center">Writing a specification means writing a test, and examples are becoming test codes as is.</p>
 
@@ -7,7 +8,7 @@ Do you write a test code?
 You know it is very important to make a test code, but it is one of tough work these days.
 **SpecTest** will help you a little smaller work of that.
 
-> ## Important Notice
+> ### Important Notice
 > 
 > This product of **SpecTest** is currently included in the project [Kinx](https://github.com/Kray-G/kinx).
 > Therefore this page is the link to [Kinx](https://github.com/Kray-G/kinx).
