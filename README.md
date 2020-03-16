@@ -10,7 +10,7 @@ You know it is very important to make a test code, but it is one of tough work t
 
 > ### Important Notice
 > 
-> This product of **SpecTest** is currently included in the project [Kinx](https://github.com/Kray-G/kinx).
+> This product named as **SpecTest** is currently included in the project [Kinx](https://github.com/Kray-G/kinx).
 > Therefore this page is the link to [Kinx](https://github.com/Kray-G/kinx).
 > Now I am trying this to be separated from [Kinx](https://github.com/Kray-G/kinx)
 > because this testing framework is independent from [Kinx](https://github.com/Kray-G/kinx).
