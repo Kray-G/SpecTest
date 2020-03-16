@@ -16,7 +16,7 @@ You know it is very important to make a test code, but it is one of tough work t
 > because this testing framework is independent from [Kinx](https://github.com/Kray-G/kinx).
 > However, the priority of work is low because this can work well with [Kinx](https://github.com/Kray-G/kinx) so far.
 > 
-> If you are instrestead in this product and you want to make me speed up of development, please let me know.
+> If you are interested in this product and you want to make me speed up of development, please let me know.
 > Anyway, **SpecTest** can work with [Kinx](https://github.com/Kray-G/kinx) now.
 > See below for details.
 > 
