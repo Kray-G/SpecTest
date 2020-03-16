@@ -1,6 +1,9 @@
 <p align="right"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat"/></p>
 <p align="center"><img src="https://raw.githubusercontent.com/Kray-G/kinx/master/doc/spectest.png" height="84px" /></p>
-<p align="center">Writing a specification means writing a test, and examples are becoming test codes as is.</p>
+<p align="center">
+<strong>Testng Framework for Behavior-Driven Development</strong><br />
+Writing a specification means writing a test, and examples are becoming test codes as is.
+</p>
 
 ## Overview
 
